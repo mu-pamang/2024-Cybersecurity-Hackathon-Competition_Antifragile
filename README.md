@@ -92,7 +92,7 @@ KITRI-White Hat School 2nd-Antifragile
 
 Yoon HyeJun - [hj021313@gmail.com](hj021313@gmail.com)
 
-Cho Hyobin - 
+Cho Hyobeen - [gyqlswh1109@naver.com](gyqlswh1109@naver.com) 
 
 Project Link: link to the project
 
