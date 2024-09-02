@@ -22,9 +22,9 @@ This is the 2024-Cybersecurity Hackathon Contest_Antifragile project developed b
 
 이는 'Antifragile' 팀이 개발한 2024-사이버보안 해커톤 경연대회_Antifragile 프로젝트입니다.
 
-*** This is a follow-up study based on research and development conducted in the [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE) repository. We are building upon the tools and methods developed in the original project to enhance the detection and prevention of cybersecurity threats. The knowledge and code base from the previous project have been critical in shaping our approach for this competition.
+*** This is a follow-up study based on the research and development conducted in the [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE) repository. It aims to further enhance cybersecurity threat and anti-forensic detection and prevention based on tools and methods developed in previous projects. The knowledge and code base accumulated in previous projects contributed to the preparation of this competition.
 
-이는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE) 레포지토리에서 진행된 연구와 개발을 기반으로 후속 연구편입니다. 이전 프로젝트에서 개발된 도구와 방법을 바탕으로 사이버보안 위협 탐지 및 예방을 더욱 강화하고자 합니다. 이전 프로젝트에서 축적된 지식과 코드 베이스는 이번 대회를 준비하는 데 중요한 역할을 했습니다.
+이는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE) 레포지토리에서 진행된 연구와 개발을 기반으로 한 후속 연구편입니다. 이전 프로젝트에서 개발된 도구와 방법을 바탕으로 사이버보안 위협 및 안티포렌식 탐지 및 예방을 더욱 강화하고자 합니다. 이전 프로젝트에서 축적된 지식과 코드 베이스는 이번 대회를 준비하는데 기여했습니다.
 
 
 ### Built With
