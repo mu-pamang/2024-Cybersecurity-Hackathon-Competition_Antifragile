@@ -29,7 +29,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 ### Built With
 
-- Python 3.12.2 64-bit
+- Python 3.11.8 64-bit
 - 
 - 
 
