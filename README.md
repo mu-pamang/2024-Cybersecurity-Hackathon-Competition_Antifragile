@@ -24,7 +24,7 @@ This is the 2024-Cybersecurity Hackathon Contest_Antifragile's ANTI* project dev
 
 *** ANTI* is a follow-up study based on the research and development conducted in the [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE) repository. Based on the tools and methods developed in previous projects, we aim to further strengthen cybersecurity threat and anti-forensic detection and prevention. This competition was based on the accumulated knowledge and code base of previous projects.
 
-ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE) 레포지토리에서 진행된 연구와 개발을 기반으로 한 후속 연구편입니다. 이전 프로젝트에서 개발된 도구와 방법을 바탕으로 사이버보안 위협 및 안티포렌식 탐지 및 예방을 더욱 강화하고자 합니다. 이번 대회는 이전 프로젝트의 축적된 지식과 코드베이스로 기반으로 하였습니다.
+ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)  레포지토리에서 진행된 연구와 개발을 기반으로 한 후속 연구편입니다. 이전 프로젝트에서 개발된 도구와 방법을 바탕으로 사이버보안 위협 및 안티포렌식 탐지 및 예방을 더욱 강화하고자 합니다. 이번 대회는 이전 프로젝트의 축적된 지식과 코드베이스를 기반으로 하였습니다.
 
 
 ### Built With
