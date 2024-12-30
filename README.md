@@ -1,6 +1,6 @@
 # 2024-Cybersecurity-Hackathon-Competition_Antifragile
 
-## Table of Contents
+#### Table of Contents
 
 - [About The Project](#about-the-project)
   - [Built With](#built-with)
