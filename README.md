@@ -12,7 +12,6 @@
 - [License](#license)
 - [Changelog](#changelog)
 - [Code Style](#code-style)
-- [Documentation](#documentation)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -80,11 +79,6 @@ The project adhere to the guidelines defined below:
 - Commits use the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) style
 
 - Other code styles that the project adheres to
-
-## Documentation
-
-For a detailed explanation of the project please refer to
-the `/docs`.
 
 ## Contact
 
