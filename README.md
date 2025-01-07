@@ -50,7 +50,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
   - 사례 연구에서도 일반적으로 등장하는 삭제 시나리오
     <img src="/Read_img/삭제_시나리오.png" width="700px" title="Title" alt="Alt text"></img>
     
-     - **국내 안티포렌식 사례**
+      **국내 안티포렌식 사례**
       - 우리나라에서도 안티포렌식 기술은 빠르게 발전하면서 수사기관의 수사 진척에 어려움을 주는 등 심각한 문제로 대두되고 있다. 경찰에서 통용되는 안티포렌식 기법으로는 △데이터 파괴(Destruction) △데이터 암호화(Encryption) △데이터 은닉(Hiding) △데이터 조작(Manipulation) △풋프린트 최소화(Minimizing the Footprint) △분석 시간 증가(Reducing analyzability) 등이 있다.
 
       따라서, 디지털 포렌식 기술이 발전함에따라 안티포렌식 기법이 다양화와 정교화되고 있어 심각한 문제인것을 알 수 있다.
@@ -294,12 +294,12 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 **4 ) 검색 기능**
 
-&emsp;&emsp;**3-1) 검색 기능**
+&emsp;&emsp;**4-1) 검색 기능**
   - 상단에 배치된 검색창(QLineEdit), 검색 옵션(QComboBox), 검색 버튼, 클리어 버튼을 통해 분석 결과를 필터링.
   - 오프셋, 16진수 값, 디코드 텍스트를 정렬하여 표시하며, 가독성을 위해 오프셋은 파란색, 나머지는 기본 색상으로 표시.
   - QDockWidget 기반의 Hexa View 도킹 위젯을 제공.
 
-&emsp;&emsp;**3-2) 분석 결과 테이블**
+&emsp;&emsp;**4-2) 분석 결과 테이블**
   - 분석 결과는 "와이핑", "완전 삭제", "데이터 위변조"의 세 가지 카테고리로 구분되어 표시.
   - 각 카테고리에 대해 별도의 테이블(QTableWidget)을 생성하며, 다음과 같은 열 구성을 가짐:
     - 와이핑: 와이핑된 파일 이름, 와이핑 흔적.
@@ -307,11 +307,11 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
     - 데이터 위변조: 파일명, 변조 가능성, 복구 경로, 시간.
   - 테이블은 읽기 전용으로 설정하며, 사용자는 각 카테고리 버튼을 클릭하여 테이블 간에 전환 가능.
 
-&emsp;&emsp;**3-3) 사용자 인터랙션**
+&emsp;&emsp;**4-3) 사용자 인터랙션**
   - 검색 옵션은 카테고리에 따라 동적으로 변경되며, 사용자는 원하는 데이터를 효율적으로 찾을 수 있음.
   - 테이블 열 크기는 데이터 크기에 따라 동적으로 조정되며, 긴 텍스트는 인터랙티브 모드로 제한된 너비로 표시.
 
-&emsp;&emsp;**3-3) 결과 초기화 및 테이블 필터링**
+&emsp;&emsp;**4-3) 결과 초기화 및 테이블 필터링**
   - "X" 버튼을 눌러 필터를 초기화하거나 모든 테이블 데이터를 한 번에 지우는 기능 제공.
   - 각 테이블은 행 단위로 숨기거나 표시하여 필터링 결과를 반영.
 
@@ -362,11 +362,12 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 <img src="/Read_img/hexaview.jpg"  width="800px" title="Title" alt="Alt text"></img>
 </p>
 <div align="center"> 
-|라벨|이름|상세|
-|:---:|:----------------------------:|:---|
-| S0 | Hexa View Tab            | - Hexa View를 도킹하거나 다른 탭으로 전환 가능.  |
-| S1 | Hexa View             | - 파일의 바이너리 데이터를 헥사 덤프 형식으로 시각적으로 표시. |
-| S2 | 드래그 영역         | - 사용자가 특정 파일 데이터를 선택하면 헥사 값과 디코드 텍스트가 강조 표시됨. |
+| 라벨   | 이름           | 상세                                                         |
+|:-------|:---------------|:------------------------------------------------------------|
+| S0     | Hexa View Tab  | - Hexa View를 도킹하거나 다른 탭으로 전환 가능.              |
+| S1     | Hexa View      | - 파일의 바이너리 데이터를 헥사 덤프 형식으로 시각적으로 표시. |
+| S2     | 드래그 영역    | - 사용자가 특정 파일 데이터를 선택하면 헥사 값과 디코드 텍스트가 강조 표시됨. |
+
 </div>
 
 ***
@@ -375,11 +376,12 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 <img src="/Read_img/hexa_peristalsis.jpg"  width="800px" title="Title" alt="Alt text"></img>
 </p>
 <div align="center"> 
-|라벨|이름|상세|
-|:---:|:----------------------------:|:---|
-| S0 | 파일 선택            | - Detection Results에서 특정 파일을 선택하여 관련 정보를 확인.  |
-| S1 | 선택 영역  마킹 표시             | - 선택된 파일의 데이터에 해당하는 헥사 값과 디코드 텍스트가 강조 표시됨. |
-| S2 | Hexa View 도킹         | - Hexa View를 도킹 |
+| 라벨   | 이름              | 상세                                                         |
+|:-------|:------------------|:------------------------------------------------------------|
+| S0     | 파일 선택         | - Detection Results에서 특정 파일을 선택하여 관련 정보를 확인. |
+| S1     | 선택 영역 마킹 표시 | - 선택된 파일의 데이터에 해당하는 헥사 값과 디코드 텍스트가 강조 표시됨. |
+| S2     | Hexa View 도킹    | - Hexa View를 도킹.                                         |
+
 </div>
 
 ***
