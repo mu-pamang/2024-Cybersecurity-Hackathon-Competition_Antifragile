@@ -23,13 +23,14 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
   - **최근 디지털 증거 분석 사례 현황**
     - 디지털 포렌식 분야는 1970년대부터 기술 발전과 함께 진화해 왔다. 오늘날 사이버 범죄의 증가로 인해 그 중요성이 더욱 주목받고 있다.
 
-    디지털 포렌식 : 
+    - 디지털 포렌식 : 
       - 디지털 증거물을 수사에 활용
       - 디지털 증거물의 증거 능력을 향상시키기 위한 과학 수사기법을 총칭하는 용어
-    안티포렌식 : 
+    - 안티포렌식 : 
       - 자신에게 불리한 증거를 훼손하거나 차단하는 행위 등 중요한 증거를 찾기 어렵게 만드는 기법
       - 수사에 필요한 시간을 늘려 디지털 포렌식 수사에 악영향 끼침.
       - 데이터 파괴, 은닉, 수정, 흔적 최소화 등이 안티포렌식 행위로 분류됨.
+
 
     디지털 증거는 범죄 사실 규명을 위한 중요한 증거로 활용될 수 있으므로 디지털 증거의 수집과 분석 과정이 중대한 의미를 지닌다. 
     <img src="/Read_img/디지털 증거 분석 사례 현황.png" width="700px" title="Title" alt="Alt text"></img>
@@ -361,7 +362,9 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 <p align="center"> 
 <img src="/Read_img/hexaview.jpg"  width="800px" title="Title" alt="Alt text"></img>
 </p>
+
 <div align="center"> 
+  
 | 라벨   | 이름           | 상세                                                         |
 |:-------|:---------------|:------------------------------------------------------------|
 | S0     | Hexa View Tab  | - Hexa View를 도킹하거나 다른 탭으로 전환 가능.              |
@@ -375,7 +378,9 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 <p align="center"> 
 <img src="/Read_img/hexa_peristalsis.jpg"  width="800px" title="Title" alt="Alt text"></img>
 </p>
+
 <div align="center"> 
+  
 | 라벨   | 이름              | 상세                                                         |
 |:-------|:------------------|:------------------------------------------------------------|
 | S0     | 파일 선택         | - Detection Results에서 특정 파일을 선택하여 관련 정보를 확인. |
@@ -402,11 +407,11 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 | S4 | 데이터 위변조 검색 옵션              | - 파일명, 변조 가능성, 복구 경로 등 특정 데이터 위변조 결과 필터링하여 검색. |
 | S5 | 검색 버튼       | - 입력된 키워드와 선택된 필터 옵션에 따라 테이블 데이터를 필터링. |
 | S6 | 초기화 버튼              | - 검색 및 필터링 결과를 초기화하여 모든 데이터를 표시. |
+
 </div>
 
+
 ***
-
-
 
 #### 라. 디렉토리 구조
 > 위 레포지토리의 디렉토리 구조
