@@ -172,6 +172,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 #### 라. 기존 서비스 대비 차별성
 
 > 기존의 포렌식 도구에서는 단순삭제만 확인 가능하다.
+
 <img src="/Read_img/탐지 기술 측면.png" width="800px" title="Title" alt="Alt text"></img>
   **1 ) 탐지 기술 측면**
    - 기존 툴에서 잘 알려지고 많이 사용되는 기존 프로그램의 완전 삭제 탐지만 확인 가능.이에 따라 Anti*는  안티포렌식 기법을 효과적으로 탐지할 수 있는 알고리즘이 포함되어 있다.
