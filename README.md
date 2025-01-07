@@ -245,6 +245,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 
 **2 ) Detection Result**
+
 &emsp;&emsp;**2-1) 단순삭제**
   - $UsnJrnl/$J파일 입력
   - USN Journal 파일을 읽어 각 레코드를 분석하고, 파일 삭제 이벤트를 탐지.
@@ -265,6 +266,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
   - 탐지 결과로 위변조 유형, 복구 파일 경로, 타임스탬프를 출력하여 파일 상태를 보고.
 
 **3 ) Hexa View**
+
 &emsp;&emsp;**3-1) Hexa View 기능**
   - 파일의 바이너리 데이터를 헥사덤프(hexdump) 형식으로 출력하여 사용자가 쉽게 분석 가능.
   - 오프셋, 16진수 값, 디코드 텍스트를 정렬하여 표시하며, 가독성을 위해 오프셋은 파란색, 나머지는 기본 색상으로 표시.
@@ -291,6 +293,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
     => 이 기능은 분석 테이블과 헥사 뷰 간의 상호작용을 통해 데이터 추적 및 확인을 간소화함.
 
 **4 ) 검색 기능**
+
 &emsp;&emsp;**3-1) 검색 기능**
   - 상단에 배치된 검색창(QLineEdit), 검색 옵션(QComboBox), 검색 버튼, 클리어 버튼을 통해 분석 결과를 필터링.
   - 오프셋, 16진수 값, 디코드 텍스트를 정렬하여 표시하며, 가독성을 위해 오프셋은 파란색, 나머지는 기본 색상으로 표시.
@@ -365,9 +368,6 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 | S1 | Hexa View             | - 파일의 바이너리 데이터를 헥사 덤프 형식으로 시각적으로 표시. |
 | S2 | 드래그 영역         | - 사용자가 특정 파일 데이터를 선택하면 헥사 값과 디코드 텍스트가 강조 표시됨. |
 
-</div>
-
-***
 
 <p align="center"> 
 <img src="/Read_img/hexa_peristalsis.jpg"  width="800px" title="Title" alt="Alt text"></img>
