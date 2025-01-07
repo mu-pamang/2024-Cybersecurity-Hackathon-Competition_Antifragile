@@ -338,7 +338,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 &emsp;**2 ) Detection Result**
 <p align="center"> 
-<img src="/Read_img/detection_result_2.jpg" width="200px" title="Title" alt="Alt text"></img>
+<img src="/Read_img/detection_result_2.jpg" width="800px" title="Title" alt="Alt text"></img>
 </p>
 
 <div align="center"> 
@@ -356,7 +356,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 &emsp;**3 ) Hexa View**
 <p align="center"> 
-<img src="/Read_img/hexaview.jpg"  width="200px" title="Title" alt="Alt text"></img>
+<img src="/Read_img/hexaview.jpg"  width="800px" title="Title" alt="Alt text"></img>
 </p>
 <div align="center"> 
 |라벨|이름|상세|
@@ -365,9 +365,12 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 | S1 | Hexa View             | - 파일의 바이너리 데이터를 헥사 덤프 형식으로 시각적으로 표시. |
 | S2 | 드래그 영역         | - 사용자가 특정 파일 데이터를 선택하면 헥사 값과 디코드 텍스트가 강조 표시됨. |
 
+</div>
+
+***
 
 <p align="center"> 
-<img src="/Read_img/hexa_peristalsis.jpg"  width="200px" title="Title" alt="Alt text"></img>
+<img src="/Read_img/hexa_peristalsis.jpg"  width="800px" title="Title" alt="Alt text"></img>
 </p>
 <div align="center"> 
 |라벨|이름|상세|
@@ -382,7 +385,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 &emsp;**4 ) 검색 기능**
 <p align="center"> 
-<img src="/Read_img/research.jpg" width="500px" title="Title" alt="Alt text"></img>
+<img src="/Read_img/research.jpg" width="800px" title="Title" alt="Alt text"></img>
 </p>
 
 <div align="center"> 
@@ -400,10 +403,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 ***
 
-</div>
 
-
-***
 
 #### 라. 디렉토리 구조
 > 위 레포지토리의 디렉토리 구조
