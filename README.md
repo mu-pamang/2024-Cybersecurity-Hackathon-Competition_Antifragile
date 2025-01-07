@@ -475,7 +475,7 @@ $ pip install pytsk3
 ### 5. 소개 및 시연 영상
 > 프로젝트 시연영상
 
-https://youtu.be/
+[https://youtu.be/RbETzjptyTQ](https://youtu.be/RbETzjptyTQ)
 
 ### 6. 팀 소개
 > Antifragile 팀
