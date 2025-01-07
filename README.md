@@ -367,7 +367,9 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 | S0 | Hexa View Tab            | - Hexa View를 도킹하거나 다른 탭으로 전환 가능.  |
 | S1 | Hexa View             | - 파일의 바이너리 데이터를 헥사 덤프 형식으로 시각적으로 표시. |
 | S2 | 드래그 영역         | - 사용자가 특정 파일 데이터를 선택하면 헥사 값과 디코드 텍스트가 강조 표시됨. |
+</div>
 
+***
 
 <p align="center"> 
 <img src="/Read_img/hexa_peristalsis.jpg"  width="800px" title="Title" alt="Alt text"></img>
@@ -378,7 +380,6 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 | S0 | 파일 선택            | - Detection Results에서 특정 파일을 선택하여 관련 정보를 확인.  |
 | S1 | 선택 영역  마킹 표시             | - 선택된 파일의 데이터에 해당하는 헥사 값과 디코드 텍스트가 강조 표시됨. |
 | S2 | Hexa View 도킹         | - Hexa View를 도킹 |
-
 </div>
 
 ***
