@@ -376,6 +376,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
   - JPEG 파일의 SOS 마커 손상 여부를 검증하며, 손상된 경우 복구 데이터를 생성.
   - 탐지 결과로 위변조 유형, 복구 파일 경로, 타임스탬프를 출력하여 파일 상태를 보고.
 
+
 &emsp;**3 ) Hexa View**
 &emsp;&emsp;**3-1) Hexa View 기능**
   - 파일의 바이너리 데이터를 헥사덤프(hexdump) 형식으로 출력하여 사용자가 쉽게 분석 가능.
@@ -401,6 +402,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
     - 분석 결과 테이블에서 특정 파일 이름을 클릭하면, Hexa View와 연동되어 해당 파일의 헥사 값(16진수 데이터)를 자동으로 탐지.
     - 선택된 파일의 데이터와 관련된 헥사 값 영역이 강조 표시(마킹)되어 시각적 가독성을 높임. 
     => 이 기능은 분석 테이블과 헥사 뷰 간의 상호작용을 통해 데이터 추적 및 확인을 간소화함.
+
 
 &emsp;**4 ) 검색 기능**
 &emsp;&emsp;**3-1) 검색 기능**
@@ -430,7 +432,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 &emsp;**1 ) Evidence Tree, Properties**
 <p align="center"> 
-<img src="/Read_img/Evidence Tree_Properties_2.jpg" width="500px" title="Title" alt="Alt text"></img>
+<img src="/Read_img/Evidence Tree_Properties_2.jpg" width="800px" title="Title" alt="Alt text"></img>
 </p>
 
 <div align="center"> 
@@ -450,7 +452,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 &emsp;**2 ) Detection Result**
 <p align="center"> 
-<img src="/Read_img/detection_result_2.jpg" width="200px" title="Title" alt="Alt text"></img>
+<img src="/Read_img/detection_result_2.jpg" width="800px" title="Title" alt="Alt text"></img>
 </p>
 
 <div align="center"> 
@@ -468,7 +470,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 &emsp;**3 ) Hexa View**
 <p align="center"> 
-<img src="/Read_img/hexaview.jpg"  width="200px" title="Title" alt="Alt text"></img>
+<img src="/Read_img/hexaview.jpg"  width="800px" title="Title" alt="Alt text"></img>
 </p>
 
 <div align="center"> 
