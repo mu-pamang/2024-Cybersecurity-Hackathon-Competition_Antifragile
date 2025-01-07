@@ -41,14 +41,14 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 **2 ) 디지털 포렌식 기술의 발전과 더불어 안티포렌식 기술도 발전.**
   - **해커들의 안티포렌식 사례**
   - 러시아-우크라이나 전쟁에 사용한 랜섬웨어 기반 데이터 삭제 공격
-    <img src="/Read_img/러시아-우크라이나 전쟁.png" width="800px" title="Title" alt="Alt text"></img>
+    <img src="/Read_img/러시아-우크라이나 전쟁.png" width="700px" title="Title" alt="Alt text"></img>
     
   - 스테가노 그래피를 이용한 공격이 320건 이상 발견/ ANY.RUN 샌드박스에서 Meterpreter 분석
-      <img src="/Read_img/스테가노그래피_1.png" width="800px" title="Title" alt="Alt text"></img>
+      <img src="/Read_img/스테가노그래피_1.png" width="700px" title="Title" alt="Alt text"></img>
 
-      <img src="/Read_img/스테가노그래피_2.png" width="800px" title="Title" alt="Alt text"></img>
+      <img src="/Read_img/스테가노그래피_2.png" width="700px" title="Title" alt="Alt text"></img>
   - 사례 연구에서도 일반적으로 등장하는 삭제 시나리오
-    <img src="/Read_img/삭제_시나리오.png" width="800px" title="Title" alt="Alt text"></img>
+    <img src="/Read_img/삭제_시나리오.png" width="700px" title="Title" alt="Alt text"></img>
     
      - **국내 안티포렌식 사례**
       - 우리나라에서도 안티포렌식 기술은 빠르게 발전하면서 수사기관의 수사 진척에 어려움을 주는 등 심각한 문제로 대두되고 있다. 경찰에서 통용되는 안티포렌식 기법으로는 △데이터 파괴(Destruction) △데이터 암호화(Encryption) △데이터 은닉(Hiding) △데이터 조작(Manipulation) △풋프린트 최소화(Minimizing the Footprint) △분석 시간 증가(Reducing analyzability) 등이 있다.
@@ -57,7 +57,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 **3 ) 디지털 포렌식의 분석 건수는 날이 갈 수록 더욱 커져가지만 수사할 수사관들의 수는 턱없이 부족한 상황임.**
   - **최근 5년간 연도별 시도청별 디지털포렌식 분석건수**
-    <img src="/Read_img/최근 5년간 디지털 포렌식 건수.png" width="800px" title="Title" alt="Alt text"></img>
+    <img src="/Read_img/최근 5년간 디지털 포렌식 건수.png" width="700px" title="Title" alt="Alt text"></img>
     - 통계자료에 따르면  지난 4년간 경찰이 실시한  디지털포렌식 분석건수는 2017년 3만4541건에서 2020년 6만3034건으로 3년 새 82.4%(2만8493건) 증가했다. 올해 8월까지도 이미 5만161건을 기록하면서 예년을 상회할 것으로 예상된다.
 
     디지털 포렌식 분석건수를 담당하는 디지털증거분석관의  분석건수 비율은  1인당 평균 분석건수는 경북청이 501.3건으로 가장 많았다. 이는 1인당 분석건수가 가장 적었던 울산청(268.2건)에 비해 약 2배 많은 수치다.
@@ -172,7 +172,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 #### 라. 기존 서비스 대비 차별성
 
 > 기존의 포렌식 도구에서는 단순삭제만 확인 가능하다. 
-
+    <img src="/Read_img/탐지 기술 측면.png" width="800px" title="Title" alt="Alt text"></img>
   **1 ) 탐지 기술 측면**
    - 기존 툴에서 잘 알려지고 많이 사용되는 기존 프로그램의 완전 삭제 탐지만 확인 가능.이에 따라 Anti*는  안티포렌식 기법을 효과적으로 탐지할 수 있는 알고리즘이 포함되어 있다.
    - 주요 3가지 안티포렌식 분석 작업을 자동화한다. 이는 수사 시간이 크게 단축되는 효과를 기대할 수 있다.또한, 빠르고 정확한 분석으로 인해 오탐지와 누락이 줄어들어, 다른 포렌식 도구와 비교해 더 높은 정확도와 신뢰성을 제공한다.
@@ -356,7 +356,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 
 
-&emsp;**2 ) Detection Result**
+**2 ) Detection Result**
 &emsp;&emsp;**2-1) 단순삭제**
   - $UsnJrnl/$J파일 입력
   - USN Journal 파일을 읽어 각 레코드를 분석하고, 파일 삭제 이벤트를 탐지.
@@ -377,7 +377,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
   - 탐지 결과로 위변조 유형, 복구 파일 경로, 타임스탬프를 출력하여 파일 상태를 보고.
 
 
-&emsp;**3 ) Hexa View**<br> <br/>
+**3 ) Hexa View**
 &emsp;&emsp;**3-1) Hexa View 기능**
     - 파일의 바이너리 데이터를 헥사덤프(hexdump) 형식으로 출력하여 사용자가 쉽게 분석 가능.
     - 오프셋, 16진수 값, 디코드 텍스트를 정렬하여 표시하며, 가독성을 위해 오프셋은 파란색, 나머지는 기본 색상으로 표시.
@@ -404,7 +404,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
       => 이 기능은 분석 테이블과 헥사 뷰 간의 상호작용을 통해 데이터 추적 및 확인을 간소화함.
 
 
-&emsp;**4 ) 검색 기능**
+**4 ) 검색 기능**
 &emsp;&emsp;**4-1) 검색 기능**
     - 상단에 배치된 검색창(QLineEdit), 검색 옵션(QComboBox), 검색 버튼, 클리어 버튼을 통해 분석 결과를 필터링.
     - 오프셋, 16진수 값, 디코드 텍스트를 정렬하여 표시하며, 가독성을 위해 오프셋은 파란색, 나머지는 기본 색상으로 표시.
