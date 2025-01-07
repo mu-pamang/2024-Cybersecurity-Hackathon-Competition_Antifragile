@@ -483,8 +483,52 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 ***
 
-<p align="center"> 
-<img src="/Read_img/hexa_peristalsis.jpg"  width="200px님들께서 포렌식을 단 하나도 알지 못하셔서 질문이 없으시거나 원리를 이해하지 못하심
+#### 라. 디렉토리 구조
+> 위 레포지토리의 디렉토리 구조
+
+```
+├─__pycache__
+│  ├─file_open_screen.cpython-311.pyc
+│  ├─hexa_data_anal.cpython-311.pyc
+│  ├─marking.cpython-311.pyc
+│  ├─proper_info.cpython-311.pyc
+│  ├─show_result_screen.cpython-311.pyc
+│  ├─simple_delete_detection.cpython-311.pyc
+├─detection detailed
+│  ├─ex_detection.py
+│  ├─simple_delete_detection.py
+├─images
+├─.gitignore
+├─README.md
+├─detect_data_falsify.py
+├─file_open_screen.py
+├─hexa_data_anal.py
+├─main_screen.py
+├─print_wiping.py
+├─proper_info.py
+├─show_result_screen.py
+└─simple_delete_detection.py
+```
+<br/>
+
+#### 마. 산업체 멘토링 의견 반영사항
+&emsp;1 ) 피드백 1 : 문제의 필요성을 강조하고 솔루션 도출 과정을 스토리로 설명하고 사이버 보안 관련 사례나 기사로 발표 내용을 보완해라. 
+심사하시는 분들이 모든 개념을 알고 있지 않다. 개념에 대해서 먼저 환기 후 도구의 필요성에 대해 설명하여 이목 끌기 & 초등학생을 이해시킨다는 마음으로 청자 고려하여 쉽게 설명하여 이해 시켜라. 
+  > - 개념 설명을 더 쉽게 하려고 노력, 기사를 추가함
+  > - 전달력이 부족했다고 생각. ( 포렌식에 대한 개념 부족한 청자 고려 부족 )
+
+&emsp;2 ) 피드백 2 : 다른 포렌식 회사의 포렌식 방법은 어떤지 찾아봐라 ( 타 포렌식 업체와의 기법 차별성 중요 ). 
+타 포렌식 업체와의 차별성을 강조하며 시장 조사와 독창성을 확보해라. 
+UI를 직관적으로 개선하고, 플로우 차트로 개발 과정과 향후 계획을 시각적으로 표현하여라.
+  > - 차별성 강조하여 발표
+  > - 기대효과 및 활용 방안, 향후계획 소개함.
+  > - 툴 브랜드명 강조, 검색버튼 수정, 인덱스 수정
+
+&emsp;3 ) 피드백 3 : 해커톤마다 기술과 사업성의 우선순위가 다르므로 방향성을 설정해라. 새로 개발한 부분과 국내 유사 서비스 존재 여부를 확인하고 차별성과 필요성을 강조해라. 
+툴 조사와 가격 차별화 방안을 마련하며, 심사위원을 초등학생이라 생각하고 쉽게 풀어서 설명해라
+  > - 사업성 강조하고 툴 검색 겁나 해서 타 툴 있는지 찾아봄
+  > - 차별성 강조하여 발표
+  > - 심사위원에게 풀어서 풀어서 설명하려고 노력했으나.. 선생님들께서 포렌식을 단 하나도 알지 못하셔서 질문이 없으시거나 원리를 이해하지 못하심
   > - 그런 부분까지 고려하여 설명을 했어야 했다
 
 
