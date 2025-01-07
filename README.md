@@ -323,7 +323,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
 &emsp;**1 ) Evidence Tree, Properties**
 <p align="center"> 
-<img src="/Read_img/Evidence Tree_Properties_2.jpg" width="500px" title="Title" alt="Alt text"></img>
+<img src="/Read_img/Evidence Tree_Properties_2.jpg" width="800px" title="Title" alt="Alt text"></img>
 </p>
 
 <div align="center"> 
