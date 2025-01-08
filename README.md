@@ -52,7 +52,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
       > Sead Fadilpašić , "A sneaky new steganography malware is exploiting Microsoft Word — hundreds of firms around the world hit by attack", techradarpro,2024.4.17,
       > https://www.techradar.com/pro/security/a-sneaky-new-steganography-malware-is-hitting-hundreds-of-firms-around-the-world
     
-  <img src="/Read_img/스테가노그래피_2.png" width="700px" title="Title" alt="Alt text"></img>
+      <img src="/Read_img/스테가노그래피_2.png" width="700px" title="Title" alt="Alt text"></img>
       > Guru Baran, "New Meterpreter Backdoor Hides Malicious Codes Within the Image", Cyber Security News, 2024.5.30,
       > https://cybersecuritynews.com/meterpreter-backdoor-hides-malicious-codes/
   - 사례 연구에서도 일반적으로 등장하는 삭제 시나리오
