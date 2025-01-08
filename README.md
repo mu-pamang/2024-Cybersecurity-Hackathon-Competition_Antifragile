@@ -45,17 +45,19 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
   - **해커들의 안티포렌식 사례**
   - 러시아-우크라이나 전쟁에 사용한 랜섬웨어 기반 데이터 삭제 공격
     <img src="/Read_img/러시아-우크라이나 전쟁.png" width="700px" title="Title" alt="Alt text"></img>
-    > Sergiu Gatlan, "Ransomware used as decoy in data-wiping attacks on Ukraine", BleepingComputer, 2022.2.24, 
-      https://www.bleepingcomputer.com/news/security/ransomware-used-as-decoy-in-data-wiping-attacks-on-ukraine/
+    > Sergiu Gatlan, "Ransomware used as decoy in data-wiping attacks on Ukraine", BleepingComputer, 2022.2.24,
+    > https://www.bleepingcomputer.com/news/security/ransomware-used-as-decoy-in-data-wiping-attacks-on-ukraine/
   - 스테가노 그래피를 이용한 공격이 320건 이상 발견/ ANY.RUN 샌드박스에서 Meterpreter 분석
       <img src="/Read_img/스테가노그래피_1.png" width="700px" title="Title" alt="Alt text"></img>
-      > Sead Fadilpašić , "A sneaky new steganography malware is exploiting Microsoft Word — hundreds of firms around the world hit by attack", techradarpro,2024.4.17,             https://www.techradar.com/pro/security/a-sneaky-new-steganography-malware-is-hitting-hundreds-of-firms-around-the-world
-      <img src="/Read_img/스테가노그래피_2.png" width="700px" title="Title" alt="Alt text"></img>
+      > Sead Fadilpašić , "A sneaky new steganography malware is exploiting Microsoft Word — hundreds of firms around the world hit by attack", techradarpro,2024.4.17,
+      > https://www.techradar.com/pro/security/a-sneaky-new-steganography-malware-is-hitting-hundreds-of-firms-around-the-world
+    <img src="/Read_img/스테가노그래피_2.png" width="700px" title="Title" alt="Alt text"></img>
       > Guru Baran, "New Meterpreter Backdoor Hides Malicious Codes Within the Image", Cyber Security News, 2024.5.30,
       > https://cybersecuritynews.com/meterpreter-backdoor-hides-malicious-codes/
   - 사례 연구에서도 일반적으로 등장하는 삭제 시나리오
     <img src="/Read_img/삭제_시나리오.png" width="700px" title="Title" alt="Alt text"></img>
-    > Forensic Recovery, "forensic recovery LLC case studies", https://www.forensicrecovery.com/case_studies.php, 2024.07.05
+    > Forensic Recovery, "forensic recovery LLC case studies", 2024.07.05
+    > https://www.forensicrecovery.com/case_studies.php
     
     **국내 안티포렌식 사례**
       - 우리나라에서도 안티포렌식 기술은 빠르게 발전하면서 수사기관의 수사 진척에 어려움을 주는 등 심각한 문제로 대두되고 있다. 경찰에서 통용되는 안티포렌식 기법으로는 △데이터 파괴(Destruction) △데이터 암호화(Encryption) △데이터 은닉(Hiding) △데이터 조작(Manipulation) △풋프린트 최소화(Minimizing the Footprint) △분석 시간 증가(Reducing analyzability) 등이 있다.
