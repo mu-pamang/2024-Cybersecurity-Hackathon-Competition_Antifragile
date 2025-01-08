@@ -34,24 +34,30 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 
     디지털 증거는 범죄 사실 규명을 위한 중요한 증거로 활용될 수 있으므로 디지털 증거의 수집과 분석 과정이 중대한 의미를 지닌다. 
     <img src="/Read_img/디지털 증거 분석 사례 현황.png" width="700px" title="Title" alt="Alt text"></img>
+    > ‘숨기려는 자’와 ‘찾으려는 자’의 피말리는 승부수... 포렌식 vs. 안티포렌식, 보안뉴스 김영명 기자,
+    > https://m.boannews.com/html/detail.html?tab_type=1&idx=114885
     - 경찰청 디지털포렌식센터의 정현희 경감은 포렌식을 하게 되는 대상은 일반적으로 컴퓨터나 스마트폰과 같은 기기들은 물론 악성코드, IoT 기기 등도 포렌식 대상 범위가 점점 더 넓어지고 있다고 설명했다. 
     특히, “운영체제OS별로 저장되는 구조와 분석하는 패턴이 달라질 수 있기 때문에 그 규칙을 찾아내는 것이 디지털 포렌식의 핵심”이라고 강조했다.
-    이러한 사례를 기반으로 디지털 증거의 수집과 분석 과정이 범죄 사실을 규명하는 데 중요한 역할을 하며, 디지털 포렌식의 역할이 점점 더 중요해지고 있음.
+    이러한 사례를 기반으로 디지털 증거의 수집과 분석 과정이 범죄 사실을 규명하는 데 중요한 역할을 하며, 디지털 포렌식의 역할이 점점 더 중요해지고 있음을 알 수 있다.
 
 
 **2 ) 디지털 포렌식 기술의 발전과 더불어 안티포렌식 기술도 발전.**
   - **해커들의 안티포렌식 사례**
   - 러시아-우크라이나 전쟁에 사용한 랜섬웨어 기반 데이터 삭제 공격
     <img src="/Read_img/러시아-우크라이나 전쟁.png" width="700px" title="Title" alt="Alt text"></img>
-    
+    > Sergiu Gatlan, "Ransomware used as decoy in data-wiping attacks on Ukraine", BleepingComputer, 2022.2.24, 
+      https://www.bleepingcomputer.com/news/security/ransomware-used-as-decoy-in-data-wiping-attacks-on-ukraine/
   - 스테가노 그래피를 이용한 공격이 320건 이상 발견/ ANY.RUN 샌드박스에서 Meterpreter 분석
       <img src="/Read_img/스테가노그래피_1.png" width="700px" title="Title" alt="Alt text"></img>
-
+      > Sead Fadilpašić , "A sneaky new steganography malware is exploiting Microsoft Word — hundreds of firms around the world hit by attack", techradarpro,2024.4.17,             https://www.techradar.com/pro/security/a-sneaky-new-steganography-malware-is-hitting-hundreds-of-firms-around-the-world
       <img src="/Read_img/스테가노그래피_2.png" width="700px" title="Title" alt="Alt text"></img>
+      > Guru Baran, "New Meterpreter Backdoor Hides Malicious Codes Within the Image", Cyber Security News, 2024.5.30,
+      > https://cybersecuritynews.com/meterpreter-backdoor-hides-malicious-codes/
   - 사례 연구에서도 일반적으로 등장하는 삭제 시나리오
     <img src="/Read_img/삭제_시나리오.png" width="700px" title="Title" alt="Alt text"></img>
+    > Forensic Recovery, "forensic recovery LLC case studies", https://www.forensicrecovery.com/case_studies.php, 2024.07.05
     
-      **국내 안티포렌식 사례**
+    **국내 안티포렌식 사례**
       - 우리나라에서도 안티포렌식 기술은 빠르게 발전하면서 수사기관의 수사 진척에 어려움을 주는 등 심각한 문제로 대두되고 있다. 경찰에서 통용되는 안티포렌식 기법으로는 △데이터 파괴(Destruction) △데이터 암호화(Encryption) △데이터 은닉(Hiding) △데이터 조작(Manipulation) △풋프린트 최소화(Minimizing the Footprint) △분석 시간 증가(Reducing analyzability) 등이 있다.
 
       따라서, 디지털 포렌식 기술이 발전함에따라 안티포렌식 기법이 다양화와 정교화되고 있어 심각한 문제인것을 알 수 있다.
@@ -59,13 +65,15 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 **3 ) 디지털 포렌식의 분석 건수는 날이 갈 수록 더욱 커져가지만 수사할 수사관들의 수는 턱없이 부족한 상황임.**
   - **최근 5년간 연도별 시도청별 디지털포렌식 분석건수**
     <img src="/Read_img/최근 5년간 디지털 포렌식 건수.png" width="700px" title="Title" alt="Alt text"></img>
+    > 지난해 디지털포렌식 분석건수, 3년새 2배 증가, ITBizNews 김소현 기자,
+    > https://www.itbiznews.com/news/articleView.html?idxno=51592
     - 통계자료에 따르면  지난 4년간 경찰이 실시한  디지털포렌식 분석건수는 2017년 3만4541건에서 2020년 6만3034건으로 3년 새 82.4%(2만8493건) 증가했다. 올해 8월까지도 이미 5만161건을 기록하면서 예년을 상회할 것으로 예상된다.
 
     디지털 포렌식 분석건수를 담당하는 디지털증거분석관의  분석건수 비율은  1인당 평균 분석건수는 경북청이 501.3건으로 가장 많았다. 이는 1인당 분석건수가 가장 적었던 울산청(268.2건)에 비해 약 2배 많은 수치다.
 
     따라서, **전국에 근무하는 디지털분석관은 172명으로 집계**됐다. **1인당 한 해 평균 366여건의 업무를 수행**한 것으로 분석관 1명이 매일 포렌식 분석을 한 셈이다.
 
-    디지털포렌식 수사 기법 향상과 분석관 인력 증원을 통해 역량강화가 필요함.
+    위와 같이 디지털포렌식 수사 기법 향상과 분석관 인력 증원을 통해 역량강화가 필요하다다.
   
 **4 ) 기존 포렌식 도구로 각각의 행위를 효율적으로 탐지하기는 어려워 새로운 대응 방안이 필요.**
     해커들의 안티포렌식 기법이 증가되는 추세이며 이에 따른 디지털포렌식 수요가 증가하고 있다. 따라서, 디지털 증거 수집, 분석 및 보고의 효율성을 높이기 위해 효과적인 자동화 기술이 도입이 필요하다.
@@ -109,9 +117,6 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
    - 이미징 파일 분석: $J 파일 등에서 로그와 아티팩트를 정밀 분석해 삭제 및 변조 기록 탐지.
    - Hexa View 제공: 탐지된 파일의 상세 정보를 헥사 뷰로 제공하며 클릭 한 번으로 탐지 내용을 확인.
 
-   - 안티포렌식 탐지 알고리즘: 데이터 삭제, 은닉, 변조 등의 행위를 탐지하고 보고하는 알고리즘 개발.
-   - 기법별 탐지 및 검색 기능: 특정 안티포렌식 기법 탐지 결과를 검색하고 분석할 수 있는 기능.
-
 &emsp;**2-2) 주요 알고리즘**
    - 단순 삭제 탐지: $J 파일의 Reason Flag 분석을 통한 파일 삭제 탐지.
    - 와이핑 탐지: Eraser와 같은 와이핑 툴 사용 흔적 분석 및 반복 구조 탐지.
@@ -122,11 +127,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
    - 도킹 기능: 자유로운 인터페이스 구성으로 사용자 맞춤형 환경 제공.
    - 간결한 디자인: 복잡하지 않고 직관적인 화면 구성으로 사용법을 쉽게 이해할 수 있도록 설계.
 
-&emsp;**2-4) 기능 개선**
-   - 프로그램 내에서 탐지된 내용을 요약 및 정리해 제공.
-   - 탐지 결과를 기반으로 추가 세부 사항(예: 로그 기록, 파일 속성)을 실시간으로 확인 가능.
-
-&emsp;**2-5) 예상 성과**
+&emsp;**2-4) 예상 성과**
    - 안티포렌식 탐지 효율화: 디지털 포렌식 분석 시간을 단축하고 탐지 성공률 향상.
    - 전문가 도구로서의 활용 가능성 증대: 기존 상용 도구와의 차별성을 기반으로 포렌식 시장에서 경쟁력 확보.
    - 디지털 포렌식 역량 강화: 안티포렌식 기법 발전에 대응할 수 있는 포렌식 역량 강화 및 수사 지원.
@@ -164,10 +165,7 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
     <img src="/Read_img/데이터 위변조_1.png" width="800px" title="Title" alt="Alt text"></img>
     <img src="/Read_img/데이터 위변조.png" width="800px" title="Title" alt="Alt text"></img>
    - 대상 파일에서 바이너리 형식으로 바이트를 읽어오고 저장해둔 시그니처 데이터 베이스와 비교하여 숨겨진 파일이 있는지 확인하고 추출한다. JPEG 파일의 경우, SOS 마커 부분이 일정한 형식임을 이용해 변조 여부를 탐지하고 필요시 복구한다.
-   - 목록을 클릭하면 매칭이 되고, *매칭대기페이지*로 이동
-   - *매칭 목록 페이지*에는 빠른매칭과 예약매칭을 선택할 수 있음.
-   - 도착지를 검색했을 경우, 검색 조건에 맞는 목록을 보여줌. 
-   - 매칭 목록에는 출발지, 목적지, 탑승시간등의 정보들이 있음.
+
 
 ***
 
@@ -178,8 +176,8 @@ ANTI*는 [WHS_2nd_ANTIFRAGILE](https://github.com/swyoo1121/WHS_2nd_ANTIFRAGILE)
 <img src="/Read_img/탐지 기술 측면.png" width="800px" title="Title" alt="Alt text"></img>
   
   **1 ) 탐지 기술 측면**
-   - 기존 툴에서 잘 알려지고 많이 사용되는 기존 프로그램의 완전 삭제 탐지만 확인 가능.이에 따라 Anti*는  안티포렌식 기법을 효과적으로 탐지할 수 있는 알고리즘이 포함되어 있다.
-   - 주요 3가지 안티포렌식 분석 작업을 자동화한다. 이는 수사 시간이 크게 단축되는 효과를 기대할 수 있다.또한, 빠르고 정확한 분석으로 인해 오탐지와 누락이 줄어들어, 다른 포렌식 도구와 비교해 더 높은 정확도와 신뢰성을 제공한다.
+   - 기존 툴에서 잘 알려지고 많이 사용되는 기존 프로그램의 완전 삭제 탐지만 확인 가능하다. 이에 따라 ANTI*는  안티포렌식 기법을 효과적으로 탐지할 수 있는 알고리즘이 포함되어 있다.
+   - 주요 3가지 안티포렌식 분석 작업을 자동화한다. 이는 수사 시간이 크게 단축되는 효과를 기대할 수 있다. 또한, 빠르고 정확한 분석으로 인해 오탐지와 누락이 줄어들어, 다른 포렌식 도구와 비교해 더 높은 정확도와 신뢰성을 제공한다.
 
      
   **2 ) GUI 측면**
@@ -463,7 +461,7 @@ UI를 직관적으로 개선하고, 플로우 차트로 개발 과정과 향후 
 
 
 ### 4. 설치 및 사용 방법
-> 제품을 설치하기 위헤 필요한 소프트웨어 및 설치 방법 작성
+> 제품을 설치하기 위헤 필요한 소프트웨어 및 설치 방법
 
 ```
 $ git clone https://github.com/mu-pamang/2024-Cybersecurity-Hackathon-Competition_Antifragile.git
