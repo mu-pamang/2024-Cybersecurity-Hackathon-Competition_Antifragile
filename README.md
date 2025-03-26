@@ -485,4 +485,4 @@ $ pip install pytsk3
 |:-------:|:-------:|
 | <img width="80px" alt="MEMBER3" src="/Read_img/윤혜준.png" /> | <img width="80px" alt="MEMBER3" src="/Read_img/조효빈.png" /> |
 | hj021313@gmail.com | gyqlswh1109@naver.com |
-| 팀장 <br/> 백앤드 개발 | 디자이너 <br/> 프론트앤드 개발 |
+| 팀장 <br/> 백엔드 개발 | 디자이너 <br/> 프론트엔드 개발 |
